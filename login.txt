@@ -1,1 +1,2 @@
-This is login functionality! Should be conflict with logout!
+This is login functionality! This is log out functionality!
+
